@@ -1,0 +1,34 @@
+_repo: The-New-Society_20936
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Windham, Arthur
+    gutenberg_agent_id: '9617'
+    url: http://www.gutenberg.org/2009/agents/9617
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rathenau, Walther
+    birthdate: 1867
+    deathdate: 1922
+    gutenberg_agent_id: '9616'
+    url: http://www.gutenberg.org/2009/agents/9616
+    wikipedia: http://en.wikipedia.org/wiki/Walther_Rathenau
+description: ''
+gutenberg_issued: '2007-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20936'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Socialism'
+- !lcsh 'Reconstruction (1914-1939) -- Germany'
+- !lcc 'HN'
+- !lcsh 'Germany -- Social conditions'
+title: The New Society
+url: http://www.gutenberg.org/ebooks/20936
